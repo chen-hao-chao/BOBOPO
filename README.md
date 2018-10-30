@@ -6,10 +6,10 @@ I have been in love with electric music since I saw the movie, Pitch Perfect, an
 I programmed BOBOPO using C++ with Allegro. Compared with C language, it is more effecient and easier.
 Because of using some functions repeatedly, OOP is more advantageous to deal with gigantic programming structure.
 I think BOBOPO has clear structure, and I patiently programmed every classes and created different functions.
-However, I have to say that, in BOBOPO, most of the objects are individually coded into a class and contains lots of functions,
+However, I have to say that, in BOBOPO, most of the objects are individually programmed into a class and contains lots of functions,
 but some of the trivial funtions awfully placed in the main body, such as the choose buttoms function.
 
-Logically speaking, animation is a throny problem, but I am also the animation maker.
+Generally speaking, animation is a throny problem, but I am also the animation maker.
 Fortunately, I can control the output format of those images. As a resualt, I can simplify the coding and reduce some calculations.
 Another feature is using pointer. I used pointers to add and delete objects appeared in BOBOPO. The reason is nothing but effeciency.
 Because the "Panel" object is so ineffecient that if I raise the resolution, the program is going to crash,
