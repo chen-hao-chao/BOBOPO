@@ -27,8 +27,6 @@ Another feature of this gane is using pointers to add and delete objects appeare
 
 Note: I am not sure that the music in the release is permitted.
 
-> All the icons in the game are drawn by myself and opened to download. Please refer the the "image" directory.
-
 ## More Games
 
 | Raiden | Ultimate Kitchen House |
