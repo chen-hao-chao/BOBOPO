@@ -10,10 +10,6 @@
 
 ## More Games
 
-| Raiden | Ultimate Kitchen House |
-| :-: | :-: |
-| <img src="https://i.imgur.com/AhhB68t.png" height="100px"> | <img src="https://i.imgur.com/1Ht2Fo5.png" height="100px"> |
-| https://github.com/lance27866854/Raiden | https://github.com/lance27866854/Ultimate-Kitchen-House |
-| Battle Llama 2 | Battle Llama |
-| <img src="https://i.imgur.com/NzwwF54.png" height="100px"> | <img src="https://i.imgur.com/wFXYTwk.png" height="100px"> |
-| https://github.com/lance27866854/Battle-llama2 | https://github.com/lance27866854/Battle-Llama |
+| [Ult. Kit. House](https://github.com/chen-hao-chao/Ultimate-Kitchen-House) | [Raiden](https://github.com/chen-hao-chao/Raiden) | [Battle Llama 2](https://github.com/chen-hao-chao/Battle-llama2) | [Battle Llama](https://github.com/chen-hao-chao/Battle-Llama) |
+| :-: | :-: | :-: | :-: |
+| <img src="https://i.imgur.com/1Ht2Fo5.png" height="100px"> | <img src="https://i.imgur.com/AhhB68t.png" height="100px"> | <img src="https://i.imgur.com/NzwwF54.png" height="100px"> | <img src="https://i.imgur.com/wFXYTwk.png" height="100px"> |
